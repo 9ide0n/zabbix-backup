@@ -41,10 +41,7 @@
 # Instead, use command line parameters or a config file to specify options.
 #
 DUMPDIR="$PWD"
-DBHOST="127.0.0.1"
 DBNAME="zabbix"
-DBUSER="zabbix"
-DBPASS=""
 COMPRESSION="gz"
 QUIET="no"
 REVERSELOOKUP="yes"
